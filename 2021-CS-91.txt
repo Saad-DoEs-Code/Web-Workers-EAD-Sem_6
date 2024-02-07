@@ -1,0 +1,6 @@
+1. Github Repo: https://github.com/Saad-DoEs-Code/Web-Workers-EAD-Sem_6
+2. Live Demo: https://app.netlify.com/sites/web-workers-demo-by-saad/configuration/general?customize-site-name=true
+3. Readme.md has been included
+4. Resources Used:
+	i. https://web.dev/learn/performance/web-worker-overview
+	ii. https://www.youtube.com/watch?v=ZT3z-VMxDa0&t=522s
